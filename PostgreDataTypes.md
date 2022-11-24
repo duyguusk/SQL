@@ -1,4 +1,4 @@
- $\fbox{PostgreSQL Data Types And Descriptions}$
+ $\fbox{PostgreSql Data Types}$
 
 | $\colorbox{yellow}{Data Name}$ | $\colorbox{pink}{Description}$ |     
 | ------------- | ------------- |
